@@ -1,2 +1,3 @@
 # hello-world
-Just another place to keep stuff
+this is a bit about bill
+and what I get up to
